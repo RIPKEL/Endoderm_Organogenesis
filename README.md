@@ -4,4 +4,5 @@ This is the analysis script for our study  "Spatiotemporal and genetic cell line
 
 Read Readme.R for detailed information on the analysis script and its usage.
 
-The analysis script is also deposited in  Zenodo (DOI: 10.5281/zenodo.14175949).
+The analysis script is also deposited in Zenodo (DOI: 10.5281/zenodo.14175949, URL: https://doi.org/10.5281/zenodo.14175949).
+
