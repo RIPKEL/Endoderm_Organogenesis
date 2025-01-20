@@ -1,4 +1,4 @@
-# Endoderm Organogenesis
+# <span style="color: #007BFF;">Endoderm Organogenesis</span>
 
 This repository contains the analysis script for our study **"Spatiotemporal and Genetic Cell Lineage Tracing of Endodermal Organogenesis at Single-Cell Resolution"**, published in *Cell*, 2025.  
 [View the publication](https://www.cell.com/cell/abstract/S0092-8674(24)01425-9) (DOI: 10.1016/j.cell.2024.12.012).
@@ -14,8 +14,6 @@ For detailed information on the analysis script and its usage, please refer to t
 ---
 
 ### Data and Scripts Availability
-
-The dataset is deposited in GEO:GSE266977.
 
 The analysis script is also deposited in Zenodo:
 
@@ -36,4 +34,6 @@ If you encounter issues accessing these links, please verify the URLs or try acc
 
 ### Contact
 
-For any questions or further assistance, please contact 2010305334@stu.pku.edu.cn.
+For any questions or further assistance, please contact [2010305334@stu.pku.edu.cn].
+
+
