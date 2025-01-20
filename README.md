@@ -6,7 +6,6 @@ This repository contains the analysis script for our study **"Spatiotemporal and
 <img src="https://github.com/RIPKEL/Endoderm_Organogenesis/blob/main/graph_abstract.png" alt="Graph abstract" width="500" height="500">
 
 
-
 If the link above does not work, please check the URL's validity and try again. Alternatively, you can access the publication through your institution's library or contact us for assistance.
 
 ---
