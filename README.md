@@ -18,7 +18,6 @@ For detailed information on the analysis script and its usage, please refer to t
 The analysis script is also deposited in Zenodo:
 
 - [Zenodo Repository](https://doi.org/10.5281/zenodo.14175949) (DOI: 10.5281/zenodo.14175949)  
-- [Updated Version](https://doi.org/10.5281/zenodo.14693845) (DOI: 10.5281/zenodo.14693845)
 
 If you encounter issues accessing these links, please verify the URLs or try accessing them through a different network connection.
 
@@ -27,7 +26,6 @@ If you encounter issues accessing these links, please verify the URLs or try acc
 ### Updates
 
 **2025.01.20**:  
-- Added an updated version of the analysis script to Zenodo (DOI: 10.5281/zenodo.14693845).  
 - Improved documentation and script compatibility.
 
 ---
