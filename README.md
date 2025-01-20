@@ -19,8 +19,6 @@ The analysis script is also deposited in Zenodo:
 
 - [Zenodo Repository](https://doi.org/10.5281/zenodo.14175949) (DOI: 10.5281/zenodo.14175949)  
 
-If you encounter issues accessing these links, please verify the URLs or try accessing them through a different network connection.
-
 ---
 
 ### Updates
