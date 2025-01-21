@@ -25,7 +25,8 @@ The dataset is deposited GEO:
 
 The analysis script is also deposited in Zenodo:
 
-- [Zenodo Repository](https://doi.org/10.5281/zenodo.14175949) (DOI: 10.5281/zenodo.14175949)  
+- [Zenodo Repository](https://doi.org/10.5281/zenodo.14175949) (DOI: 10.5281/zenodo.14175949)
+- [Zenodo Repository](https://doi.org/10.5281/zenodo.14693844) (DOI: 10.5281/zenodo.14693844)  
 
 ---
 
@@ -33,6 +34,8 @@ The analysis script is also deposited in Zenodo:
 
 **2025.01.20**:  
 - Improved documentation and script compatibility.
+**2025.01.21**:  
+- Added new Zenodo DOI.
 
 ---
 
