@@ -36,7 +36,7 @@ The analysis script is also deposited in Zenodo:
 
 **2025.01.21**:  
 - Added new Zenodo DOI.
-- Remove old Zenodo DOI (10.5281/zenodo.14175949)
+- Removed old Zenodo DOI (10.5281/zenodo.14175949)
 ---
 
 ### Cite 
